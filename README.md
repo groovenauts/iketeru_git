@@ -4,4 +4,4 @@ Git, a cool SCM
 now thinking . . .
 extra line
 bar and BAZ
-piyo hoge
+piyo hoge and piyo piyo
